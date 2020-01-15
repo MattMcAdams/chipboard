@@ -34,3 +34,5 @@ Links for my own sanity. Good references while working on the project.
 * [electron](https://electronjs.org/docs)
 * [mocha](https://mochajs.org/)
 * [chai](https://www.chaijs.com/)
+* [dialogue boxes](https://github.com/electron/electron/blob/v0.36.9/docs/api/dialog.md#dialogshowopendialogbrowserwindow-options-callback)
+* [File System](https://nodejs.org/api/fs.html#fs_file_system)
