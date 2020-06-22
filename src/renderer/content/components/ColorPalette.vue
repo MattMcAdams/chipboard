@@ -1,7 +1,7 @@
 <style lang="scss">
   .grid {
     display: grid;
-    grid-gap: 1.15rem;
+    grid-gap: 0.5rem;
     grid-template-columns: repeat( auto-fill, minmax(50px, 1fr) );
   }
 </style>
